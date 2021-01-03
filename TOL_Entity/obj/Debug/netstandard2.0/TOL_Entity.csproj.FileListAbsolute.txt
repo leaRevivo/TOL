@@ -1,0 +1,3 @@
+C:\Users\My Laptop\source\repos\TestOnLine\TOL\TOL_Entity\obj\Debug\netstandard2.0\TOL_Entity.AssemblyInfoInputs.cache
+C:\Users\My Laptop\source\repos\TestOnLine\TOL\TOL_Entity\obj\Debug\netstandard2.0\TOL_Entity.AssemblyInfo.cs
+C:\Users\My Laptop\source\repos\TestOnLine\TOL\TOL_Entity\obj\Debug\netstandard2.0\TOL_Entity.csproj.CoreCompileInputs.cache
